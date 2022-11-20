@@ -8,7 +8,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=Shourya-maker-lab&theme=flag-india&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shourya-maker-lab&theme=flag-india&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shourya-maker-lab&theme=flag-india&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+## Holopin Badges :
+[![@shourymakerlab06's Holopin board](https://holopin.me/shourymakerlab06)](https://holopin.io/@shourymakerlab06)
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shourya-maker-lab&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
